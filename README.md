@@ -46,7 +46,7 @@
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusScripts&layout=compact&border_color=c9c5ba&bg_color=242525&text_color=c9c5ba&title_color=c9c5ba" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats-Jesus.vercel.app/api?username=Jesus&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github.com/anuraghazra/github-readme-stats&border_color=c9c5ba&bg_color=242525&text_color=c9c5ba&title_color=c9c5ba" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-Jesus.vercel.app/api/top-langs/?username=JesusScripts&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
