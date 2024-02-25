@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusScripts&layout=compact&border_color=242525&bg_color=c9c5ba" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusScripts&layout=compact&border_color=c9c5ba&bg_color=242525" alt="streak stats"/>
 
   <img width=390 src="https://github-readme-stats-Jesus.vercel.app/api?username=Jesus&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
