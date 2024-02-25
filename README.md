@@ -19,11 +19,11 @@
  </div>
  
 <div align="center"> 
-  <a href="https://www.paypal.me/jesusturek"target="_blank">
+  <a href="https://www.paypal.me/jesusturek" target="_blank">
     <img src="https://img.shields.io/badge/Support%20me-%23003087?style=for-the-badge&logo=paypal" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://discord.gg/seE7hQ43" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20server-cfc9bf?style=for-the-badge&logo=discord" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
