@@ -25,20 +25,13 @@
   <a href="https://discord.gg/seE7hQ43" target="_blank">
     <img src="https://img.shields.io/badge/Support%20server-cfc9bf?style=for-the-badge&logo=discord" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://jesusscripts.tebex.io" target="_blank">
+     <img src="https://img.shields.io/badge/Tebex-cfc9bf?style=for-the-badge&color=%2320336B" target="_blank" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
 <br/>
 <hr/>
 
