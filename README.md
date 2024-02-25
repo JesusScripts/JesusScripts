@@ -46,12 +46,10 @@
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusScripts&layout=compact&border_color=c9c5ba&bg_color=242525&text_color=c9c5ba&title_color=c9c5ba" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JesusScripts" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JesusScripts&border_color=c9c5ba&bg_color=242525&text_color=c9c5ba&title_color=c9c5ba" alt="readme stats" />
 </div>
 
 <br/><br/>
-
-<hr/>
 
 <br/>
 
