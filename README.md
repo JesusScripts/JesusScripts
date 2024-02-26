@@ -34,7 +34,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake.gif?color_snake=black&color_dots=#c9c5ba.svg" />
   
   <br/><br/><br/>
 </div>
