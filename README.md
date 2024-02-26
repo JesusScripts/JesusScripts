@@ -1,7 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=JesusScripts&label=VISITORS&countColor=%23555555&style=flat-square" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&pause=1000&color=C9C5BA&random=false&center=true&vCenter=true&width=1200&height=100&lines=Hello+there%F0%9F%91%8B;I'm+Jesus%2C+and+I+find+joy+in+creating+scripts+in+the+Fivem+environment.;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=C9C5BA&random=false&center=true&vCenter=true&width=1200&height=100&lines=Hello+there%F0%9F%91%8B;I'm+Jesus%2C+and+I+find+joy+in+creating+scripts+in+the+Fivem+environment.;" />
 
 </h1>
 
