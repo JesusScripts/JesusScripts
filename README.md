@@ -34,7 +34,17 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
+ <style>
+  .snake-dot {
+    fill: #ff0000; 
+  }
+  .snake-polygon {
+    fill: #00ff00;
+  }
+</style>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake.svg" />
+
   
   <br/><br/><br/>
 </div>
