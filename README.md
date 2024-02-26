@@ -34,16 +34,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- <style>
-  .snake-dot {
-    fill: #ff0000; 
-  }
-  .snake-polygon {
-    fill: #00ff00;
-  }
-</style>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JesusScripts/JesusScripts/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 
   
   <br/><br/><br/>
