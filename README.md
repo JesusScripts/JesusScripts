@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **C++**
 
-💬 Ask me about **Lua,Python or anything [here](https://discord.gg/seE7hQ43)**
+💬 Ask me about **Lua,Python or anything [here](https://discord.gg/TxEtGj7Kkd)**
 
  </div>
  
@@ -21,7 +21,7 @@
   <a href="https://www.paypal.me/jesusturek" target="_blank">
     <img src="https://img.shields.io/badge/Support%20me-%23003087?style=for-the-badge&logo=paypal" />
   </a>
-  <a href="https://discord.gg/seE7hQ43" target="_blank">
+  <a href="https://discord.gg/TxEtGj7Kkd" target="_blank">
     <img src="https://img.shields.io/badge/Support%20server-cfc9bf?style=for-the-badge&logo=discord" target="_blank" />
   </a>
   <a href="https://jesusscripts.tebex.io" target="_blank">
