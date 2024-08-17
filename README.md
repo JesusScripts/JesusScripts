@@ -9,7 +9,7 @@
 
 <div align="center">
  
- I’m currently working on **a js-loadingscreen**
+ I’m currently working on **Game**
  
  I’m currently learning **C++**
 
