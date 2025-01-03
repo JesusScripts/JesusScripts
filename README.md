@@ -11,7 +11,8 @@
  
  I’m currently doing **Skidding**
 
- https://cdn.discordapp.com/attachments/1314812137562177536/1315889395899039815/9d8abw.gif?ex=6778b100&is=67775f80&hm=7b99f9c27ff163f50938b318715d3f335d22fd28f502701981d38b5d7244a1f7&
+[9d8abw](https://github.com/user-attachments/assets/c3580b3f-0563-4adf-bd92-57309c2b6b2b)
+
  
  I’m currently learning **C++**
 
